@@ -24,20 +24,7 @@ Hello, I'm Gabriel, a dedicated programming enthusiast with a focus on version c
 - 😄 Pronouns: He/Him.
 
 
-/*
-## Portifólio:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nacturem&repo=chess-system&theme=tokyonight
-)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nacturem&repo=WebProject&theme=tokyonight
-)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nacturem&repo=demo-dao-jdbc&theme=tokyonight
-)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/gabriel-gomes-de-sousa-202138220/) *//
 
 
 
