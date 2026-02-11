@@ -18,7 +18,7 @@ Hello, I'm Gabriel, a dedicated programming enthusiast with a focus on version c
 ![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Details
-- 🔭 I'm looking for a first interning opportunity
+- 🔭 I'm looking for a first opportunity
 - 🌱 I'm improving my abilities with Java.
 - 🤗 I like to experience new learnings and collaborate with knowledge sharing
 - 😄 Pronouns: He/Him.
