@@ -4,7 +4,7 @@
 Hello, I'm Gabriel, a dedicated programming enthusiast with a focus on version control and continuous learning. I use my GitHub as a platform to explore and enhance my coding skills. My primary goal is actively to contribute to open-source projects and collaborating with other developers. I'm always seeking opportunities to expand my knowledge and expertise while delivering high-quality code. If you're interested in collaborating or reviewing any of my personal projects, I would be thrilled to connect and learn from fellow developers. 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nacturem&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
